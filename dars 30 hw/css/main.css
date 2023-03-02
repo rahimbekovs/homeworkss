@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: grey;
+    padding: 10px 0;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu__ul {
+    display: flex;
+    column-gap: 40px;
+}
+
+.menu__logo {
+    max-width: 130px;
+    height: 28px;
+    object-fit: cover;
+}
+
+.menu__ul-a {
+    cursor: pointer;
+    color: white;
+}
