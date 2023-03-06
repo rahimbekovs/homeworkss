@@ -1,0 +1,38 @@
+/* dars31 */
+
+.title {
+    color: saddlebrown;
+}
+
+.summa,
+.btn {
+    border: 1px solid saddlebrown;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: transparent;
+}
+
+#selects {
+    border: 1px solid saddlebrown;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.kun__text {
+    color: orange;
+}
+
+.kun {
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 5px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.kun__btn {
+    border-radius: 5px;
+    padding: 5px;
+    border: 1px solid green;
+    color: green;
+}
